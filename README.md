@@ -1,5 +1,11 @@
-# Vue 3 + Vite
+# Brain Vue ThreeJS
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Projeto Vue.js com Three.js para visualização do modelo cerebral.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## Visualização Online
+
+Você pode acessar o projeto publicado aqui:
+
+[https://figueirabarros.com.br/brain/](https://figueirabarros.com.br/brain/)
